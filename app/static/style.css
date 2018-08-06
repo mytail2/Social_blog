@@ -1,0 +1,55 @@
+div.post-thumbnail {
+    position: absolute;
+}
+div.post-content {
+    margin-left: 48px;
+    min-height: 48px;
+}
+div.post-date {
+    float: right;
+}
+div.post-footer {
+    text-align: right;
+}
+div.post-author {
+    font-weight: bold;
+}
+li.post {
+    border-bottom: 1px solid #e0e0e0;
+}
+
+ul.comments {
+    list-style-type: none;
+    padding: 0px;
+    margin: 16px 0px 0px 0px;
+}
+div.comment-thumbnail {
+    position: absolute;
+}
+div.comment-content {
+    margin-left: 48px;
+    min-height: 48px;
+}
+div.comment-date {
+    float: right;
+}
+div.comment-author {
+    font-weight: bold;
+}
+div.comment-form {
+    margin: 16px 0px 16px 32px;
+}
+li.comment:hover {
+    background-color: #f0f0f0;
+}
+li.comment {
+    margin-left: 32px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+div.pagination {
+    width: 100%;
+    text-align: right;
+    padding: 0px;
+    margin: 0px;
+}
